@@ -22,6 +22,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/codewithayana/LeetCode-DSA/tree/main/0039-combination-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/codewithayana/LeetCode-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/codewithayana/LeetCode-DSA/tree/main/0039-combination-sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
