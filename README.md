@@ -62,6 +62,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/codewithayana/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
+| [0263-ugly-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0263-ugly-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
