@@ -44,6 +44,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/codewithayana/LeetCode-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/codewithayana/LeetCode-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0401-binary-watch](https://github.com/codewithayana/LeetCode-DSA/tree/main/0401-binary-watch/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
+| [0401-binary-watch](https://github.com/codewithayana/LeetCode-DSA/tree/main/0401-binary-watch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
