@@ -25,6 +25,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/codewithayana/LeetCode-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
@@ -35,6 +36,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -63,8 +65,21 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/codewithayana/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0263-ugly-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/codewithayana/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
