@@ -8,6 +8,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/codewithayana/LeetCode-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/codewithayana/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0058-length-of-last-word](https://github.com/codewithayana/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -37,6 +38,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/codewithayana/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
@@ -57,6 +59,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/codewithayana/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/codewithayana/LeetCode-DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
