@@ -26,6 +26,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/codewithayana/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/codewithayana/LeetCode-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -104,4 +105,12 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/codewithayana/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/codewithayana/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/codewithayana/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
