@@ -10,6 +10,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0022-generate-parentheses](https://github.com/codewithayana/LeetCode-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/codewithayana/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0058-length-of-last-word](https://github.com/codewithayana/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/codewithayana/LeetCode-DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -41,6 +42,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/codewithayana/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -113,4 +115,12 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/codewithayana/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
