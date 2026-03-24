@@ -19,6 +19,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/codewithayana/LeetCode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0062-unique-paths](https://github.com/codewithayana/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0263-ugly-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/codewithayana/LeetCode-DSA/tree/main/0342-power-of-four/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/codewithayana/LeetCode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0401-binary-watch](https://github.com/codewithayana/LeetCode-DSA/tree/main/0401-binary-watch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
