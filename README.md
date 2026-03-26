@@ -11,6 +11,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0030-substring-with-concatenation-of-all-words](https://github.com/codewithayana/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0058-length-of-last-word](https://github.com/codewithayana/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/codewithayana/LeetCode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/codewithayana/LeetCode-DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -78,6 +79,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0263-ugly-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/codewithayana/LeetCode-DSA/tree/main/0342-power-of-four/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/codewithayana/LeetCode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/codewithayana/LeetCode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0401-binary-watch](https://github.com/codewithayana/LeetCode-DSA/tree/main/0401-binary-watch/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/codewithayana/LeetCode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
