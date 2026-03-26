@@ -100,18 +100,22 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/codewithayana/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/codewithayana/LeetCode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/codewithayana/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/codewithayana/LeetCode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/codewithayana/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/codewithayana/LeetCode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/codewithayana/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/codewithayana/LeetCode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
