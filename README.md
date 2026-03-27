@@ -34,6 +34,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0119-pascals-triangle-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/codewithayana/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
@@ -47,6 +48,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0030-substring-with-concatenation-of-all-words](https://github.com/codewithayana/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/codewithayana/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
@@ -91,6 +93,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | ------- | ------- |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/codewithayana/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | ------- | ------- |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/codewithayana/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +132,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/codewithayana/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/codewithayana/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
