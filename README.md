@@ -79,6 +79,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/codewithayana/LeetCode-DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/codewithayana/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0263-ugly-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
@@ -97,6 +98,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/codewithayana/LeetCode-DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/codewithayana/LeetCode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0401-binary-watch](https://github.com/codewithayana/LeetCode-DSA/tree/main/0401-binary-watch/) | Easy |
