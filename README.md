@@ -12,6 +12,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0058-length-of-last-word](https://github.com/codewithayana/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codewithayana/LeetCode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0409-longest-palindrome](https://github.com/codewithayana/LeetCode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/codewithayana/LeetCode-DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -50,6 +51,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0349-intersection-of-two-arrays](https://github.com/codewithayana/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/codewithayana/LeetCode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/codewithayana/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0409-longest-palindrome](https://github.com/codewithayana/LeetCode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
