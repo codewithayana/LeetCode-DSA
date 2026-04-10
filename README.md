@@ -7,6 +7,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/codewithayana/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/codewithayana/LeetCode-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/codewithayana/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0058-length-of-last-word](https://github.com/codewithayana/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
@@ -162,4 +163,8 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/codewithayana/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/codewithayana/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
