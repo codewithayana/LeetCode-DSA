@@ -98,6 +98,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codewithayana/LeetCode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/codewithayana/LeetCode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/codewithayana/LeetCode-DSA/tree/main/0415-add-strings/) | Easy |
+| [0441-arranging-coins](https://github.com/codewithayana/LeetCode-DSA/tree/main/0441-arranging-coins/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0268-missing-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/codewithayana/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0441-arranging-coins](https://github.com/codewithayana/LeetCode-DSA/tree/main/0441-arranging-coins/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
