@@ -122,6 +122,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0342-power-of-four](https://github.com/codewithayana/LeetCode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0401-binary-watch](https://github.com/codewithayana/LeetCode-DSA/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codewithayana/LeetCode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0461-hamming-distance](https://github.com/codewithayana/LeetCode-DSA/tree/main/0461-hamming-distance/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
