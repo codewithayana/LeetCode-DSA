@@ -47,11 +47,13 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0414-third-maximum-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewithayana/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/codewithayana/LeetCode-DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0463-island-perimeter](https://github.com/codewithayana/LeetCode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/codewithayana/LeetCode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -143,11 +145,13 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0100-same-tree](https://github.com/codewithayana/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codewithayana/LeetCode-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/codewithayana/LeetCode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/codewithayana/LeetCode-DSA/tree/main/0463-island-perimeter/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/codewithayana/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/codewithayana/LeetCode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/codewithayana/LeetCode-DSA/tree/main/0463-island-perimeter/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
