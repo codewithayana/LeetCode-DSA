@@ -49,6 +49,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewithayana/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/codewithayana/LeetCode-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/codewithayana/LeetCode-DSA/tree/main/0463-island-perimeter/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/codewithayana/LeetCode-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
