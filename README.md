@@ -107,6 +107,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0412-fizz-buzz](https://github.com/codewithayana/LeetCode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/codewithayana/LeetCode-DSA/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/codewithayana/LeetCode-DSA/tree/main/0441-arranging-coins/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/codewithayana/LeetCode-DSA/tree/main/0492-construct-the-rectangle/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
