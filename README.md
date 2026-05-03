@@ -35,6 +35,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/codewithayana/LeetCode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/codewithayana/LeetCode-DSA/tree/main/0415-add-strings/) | Easy |
+| [0495-teemo-attacking](https://github.com/codewithayana/LeetCode-DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0455-assign-cookies](https://github.com/codewithayana/LeetCode-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/codewithayana/LeetCode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/codewithayana/LeetCode-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0495-teemo-attacking](https://github.com/codewithayana/LeetCode-DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
