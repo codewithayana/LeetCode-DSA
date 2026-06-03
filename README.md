@@ -20,6 +20,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0434-number-of-segments-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/codewithayana/LeetCode-DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/codewithayana/LeetCode-DSA/tree/main/0482-license-key-formatting/) | Easy |
+| [0500-keyboard-row](https://github.com/codewithayana/LeetCode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/codewithayana/LeetCode-DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -53,6 +54,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0485-max-consecutive-ones](https://github.com/codewithayana/LeetCode-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/codewithayana/LeetCode-DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/codewithayana/LeetCode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/codewithayana/LeetCode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
@@ -74,6 +76,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0409-longest-palindrome](https://github.com/codewithayana/LeetCode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewithayana/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/codewithayana/LeetCode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/codewithayana/LeetCode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
