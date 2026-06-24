@@ -56,6 +56,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0495-teemo-attacking](https://github.com/codewithayana/LeetCode-DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/codewithayana/LeetCode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/codewithayana/LeetCode-DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0506-relative-ranks](https://github.com/codewithayana/LeetCode-DSA/tree/main/0506-relative-ranks/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
@@ -149,6 +150,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0350-intersection-of-two-arrays-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/codewithayana/LeetCode-DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/codewithayana/LeetCode-DSA/tree/main/0506-relative-ranks/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/codewithayana/LeetCode-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0506-relative-ranks](https://github.com/codewithayana/LeetCode-DSA/tree/main/0506-relative-ranks/) | Easy |
 <!---LeetCode Topics End-->
