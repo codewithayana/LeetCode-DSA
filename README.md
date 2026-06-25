@@ -120,6 +120,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0441-arranging-coins](https://github.com/codewithayana/LeetCode-DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/codewithayana/LeetCode-DSA/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/codewithayana/LeetCode-DSA/tree/main/0504-base-7/) | Easy |
+| [0507-perfect-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0507-perfect-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
