@@ -31,6 +31,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/codewithayana/LeetCode-DSA/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0022-generate-parentheses](https://github.com/codewithayana/LeetCode-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/codewithayana/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0509-fibonacci-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/codewithayana/LeetCode-DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/codewithayana/LeetCode-DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Sliding Window
@@ -121,6 +123,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0492-construct-the-rectangle](https://github.com/codewithayana/LeetCode-DSA/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/codewithayana/LeetCode-DSA/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/codewithayana/LeetCode-DSA/tree/main/0506-relative-ranks/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
