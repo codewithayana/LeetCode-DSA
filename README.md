@@ -235,4 +235,8 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0511-game-play-analysis-i](https://github.com/codewithayana/LeetCode-DSA/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
