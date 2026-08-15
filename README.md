@@ -62,6 +62,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codewithayana/LeetCode-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codewithayana/LeetCode-DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codewithayana/LeetCode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/codewithayana/LeetCode-DSA/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/codewithayana/LeetCode-DSA/tree/main/0476-number-complement/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codewithayana/LeetCode-DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
