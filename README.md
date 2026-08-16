@@ -61,6 +61,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0506-relative-ranks](https://github.com/codewithayana/LeetCode-DSA/tree/main/0506-relative-ranks/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codewithayana/LeetCode-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codewithayana/LeetCode-DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Matrix
@@ -127,6 +128,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0504-base-7](https://github.com/codewithayana/LeetCode-DSA/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0011-container-with-most-water](https://github.com/codewithayana/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/codewithayana/LeetCode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/codewithayana/LeetCode-DSA/tree/main/0455-assign-cookies/) | Easy |
+| [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/codewithayana/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +255,20 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codewithayana/LeetCode-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
