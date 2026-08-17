@@ -59,6 +59,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0496-next-greater-element-i](https://github.com/codewithayana/LeetCode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/codewithayana/LeetCode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/codewithayana/LeetCode-DSA/tree/main/0506-relative-ranks/) | Easy |
+| [1563-stone-game-v](https://github.com/codewithayana/LeetCode-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/codewithayana/LeetCode-DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/codewithayana/LeetCode-DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
@@ -100,6 +101,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0062-unique-paths](https://github.com/codewithayana/LeetCode-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/codewithayana/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0509-fibonacci-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1563-stone-game-v](https://github.com/codewithayana/LeetCode-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/codewithayana/LeetCode-DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/codewithayana/LeetCode-DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Sliding Window
@@ -128,6 +130,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 | [0504-base-7](https://github.com/codewithayana/LeetCode-DSA/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/codewithayana/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1563-stone-game-v](https://github.com/codewithayana/LeetCode-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -262,6 +265,7 @@ A collection of LeetCode problem solutions written in JavaScript, showcasing cle
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/codewithayana/LeetCode-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/codewithayana/LeetCode-DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
